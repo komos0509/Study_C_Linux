@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21718901\\Desktop\\Study_C_Linux\\Study_C_Linux\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD106F0A-300E-4C0E-BAE9-378B966461DC}|Test\\Test.vcxproj|C:\\Users\\21718901\\Desktop\\Study_C_Linux\\Study_C_Linux\\Test\\Test\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD106F0A-300E-4C0E-BAE9-378B966461DC}|Test\\Test.vcxproj|solutionrelative:Test\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\21718901\\Desktop\\Study_C_Linux\\Study_C_Linux\\Test\\Test\\HelloWorld.c",
+              "RelativeDocumentMoniker": "Test\\HelloWorld.c",
+              "ToolTip": "C:\\Users\\21718901\\Desktop\\Study_C_Linux\\Study_C_Linux\\Test\\Test\\HelloWorld.c",
+              "RelativeToolTip": "Test\\HelloWorld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-07T06:37:20.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
